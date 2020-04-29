@@ -1,6 +1,6 @@
 ## bkeyboard
 
-![app](app.jpg)
+<img src="app.jpg" width="250">
 
 ### Configurar Entorno
 ~~~
